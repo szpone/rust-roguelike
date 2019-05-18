@@ -1,0 +1,1 @@
+{"rustc":443796734116236010,"features":"[]","target":3675366244709303259,"profile":4526152405984878336,"path":7816791761109658008,"deps":[["bitflags v0.1.1","bitflags",8868416214152430828],["lazy_static v0.1.16","lazy_static",10794328429635793447],["tcod-sys v5.0.0","tcod_sys",10393386670514984857]],"local":[{"Precalculated":"0.13.0"}],"rustflags":[],"edition":"Edition2015"}
